@@ -1,0 +1,61 @@
+*{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #555555;
+}
+body{
+	background: #EFFFFF
+}
+.main-title{
+	background:#DDDDDD;
+	margin:5px;
+	padding:5px;
+	display:block;
+}
+.btn{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	background:#555555;
+	width:100px;
+	color:#EEEEEE;
+	text-decoration:none;
+	border: 1px solid #555555;
+	text-align: center;
+}
+.year{
+	position:absolute;
+	top:0px;
+	right:0px;
+	background:#555555;
+	width:100px;
+	color:#EEEEEE;
+	text-decoration:none;
+	border: 1px solid #555555;
+	text-align: center;
+}
+.project-image{
+	width:200px;
+	border: 2px solid #555555;
+	display:inline-block;
+	height:200px;
+}
+.project-details{
+	position:relative;
+	font-size:16px;
+	background:#EEEEEE;
+	padding:5px 5px 5px 5px;
+	margin:5px 5px 5px 5px;
+	display:block-inline;
+	border: 2px solid #555555;
+}
+.project-item{
+	position:relative;
+	display:block;
+	background:#EEEEEE;
+	margin:5px 5px 5px 5px;
+	display:block;
+	padding:5px 5px 5px 5px;
+	border: 2px solid #555555;
+}
