@@ -13,10 +13,44 @@ body{
 	padding:5px;
 	display:block;
 }
+
+.game-title{
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:#555555;
+	width:300px;
+	color:#EEEEEE;
+	text-decoration:none;
+	border: 1px solid #555555;
+	text-align: center;
+}
 .btn{
 	position:absolute;
 	bottom:0px;
 	right:0px;
+	background:#555555;
+	width:100px;
+	color:#EEEEEE;
+	text-decoration:none;
+	border: 1px solid #555555;
+	text-align: center;
+}
+.btn1{
+	position:absolute;
+	bottom:0px;
+	right:105px;
+	background:#555555;
+	width:100px;
+	color:#EEEEEE;
+	text-decoration:none;
+	border: 1px solid #555555;
+	text-align: center;
+}
+.btn2{
+	position:absolute;
+	bottom:0px;
+	right:210px;
 	background:#555555;
 	width:100px;
 	color:#EEEEEE;
@@ -35,6 +69,7 @@ body{
 	border: 1px solid #555555;
 	text-align: center;
 }
+
 .project-image{
 	width:200px;
 	border: 2px solid #555555;
