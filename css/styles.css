@@ -87,7 +87,7 @@ body{
 }
 .project-item{
 	position:relative;
-	display:block;
+	display:inline-block;
 	background:#EEEEEE;
 	margin:5px 5px 5px 5px;
 	display:block;
