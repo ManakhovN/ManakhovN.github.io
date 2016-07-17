@@ -12,6 +12,7 @@ body{
 	margin:5px;
 	padding:5px;
 	display:block;
+	border-radius:4px;
 }
 
 .game-title{
@@ -93,4 +94,5 @@ body{
 	display:block;
 	padding:5px 5px 5px 5px;
 	border: 2px solid #555555;
+	border-radius:8px;
 }
