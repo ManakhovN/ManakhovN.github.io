@@ -9,9 +9,12 @@ body{
 }
 .main-title{
 	background:#DDDDDD;
-	margin:5px;
+	margin:0 auto;
 	padding:5px;
 	display:block;
+	max-width: 1000px;
+	min-width: 500px;
+	align:middle;
 	border-radius:4px;
 }
 
