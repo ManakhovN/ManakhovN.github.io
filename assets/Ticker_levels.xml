@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<LevelsContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Levels>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-3.99" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 1</description>
+        </Title>
+        <Title X="0" Y="-15.1000233" Width="105" Height="36.3">
+          <description>Tip: Press and Hold to avoid the blocks</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.5" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 2</description>
+        </Title>
+        <Title X="0" Y="-87.6" Width="105" Height="30">
+          <description>Every next levels will be a little bit harder</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-11" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 3</description>
+        </Title>
+        <Title X="0" Y="-87.6" Width="105" Height="30">
+          <description>Every next levels will be a little bit harder</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-14.5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-11" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 4</description>
+        </Title>
+        <Title X="0" Y="-87.6" Width="105" Height="30">
+          <description>Every next levels will be a little bit harder</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-5.01" X="-2.460904" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-9.44" X="-2.38528943" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-6.19" X="2.32342339" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-13.76" X="2.43340778" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 5</description>
+        </Title>
+        <Title X="0" Y="-38.7999878" Width="99.4" Height="35.6">
+          <description>blocks can be everywhere</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1.34036541" Width="1.51096141" Y="-5.01" X="-1.63602" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-11.59" X="-2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-9.48" X="2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.2" Width="0.206221" Y="-15.59" X="1.23732591" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 6</description>
+        </Title>
+        <Title X="0" Y="-38.8" Width="99.4" Height="35.6">
+          <description>They can be big and small
+</description>
+        </Title>
+        <Title X="0" Y="-252.599991" Width="99.4" Height="35.6">
+          <description>Or very small, so be carefull</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-4" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-7.6" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-12.2" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 7</description>
+        </Title>
+        <Title X="0" Y="-18.1500034" Width="105" Height="36.3">
+          <description>Tutorial time ended, let`s begin</description>
+        </Title>
+        <Title X="0" Y="-294.8" Width="105" Height="36.3">
+          <description>Prepare for next level</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.2" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-10.4" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-13.6" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 8</description>
+        </Title>
+        <Title X="0" Y="-312" Width="105" Height="30">
+          <description>Good job! u did it!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-10" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-14" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1.5" Width="0.6874033" Y="-17" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 9</description>
+        </Title>
+        <Title X="0" Y="-392.2" Width="105" Height="30">
+          <description>Very well!</description>
+        </Title>
+        <Title X="0" Y="-82.1" Width="105" Height="34.8">
+          <description>This level a little bit longer</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-3" X="1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-4.86" X="-1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-9.88" X="1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.36" X="-1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-15.69" X="1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-12.18" X="-1.58102763" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 10</description>
+        </Title>
+        <Title X="0" Y="-332.3" Width="67.8" Height="30">
+          <description>Did you liked that?</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-3" X="1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-5.2" X="-1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7.4" X="1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-9.6" X="-1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-14" X="-1.58102763" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-11.8" X="1.58102763" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 11</description>
+        </Title>
+        <Title X="-18" Y="-35.2000122" Width="69" Height="26.6">
+          <description>You know what to do</description>
+        </Title>
+        <Title X="0" Y="-303" Width="67.8" Height="30">
+          <description>Excellent!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.0961616859" Width="0.31521368" Y="-4" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.6973184" Y="-4.5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.02958357" Y="-5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.09968376" Y="-5.5" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.913298368" Y="-6" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.712575734" Y="-6.44" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="2.05866528" Y="-6.86" X="-1.649768" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="2.05866528" Y="-13.78" X="-1.649768" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.712575734" Y="-13.36" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.9132984" Y="-12.92" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.09968376" Y="-12.42" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.02958357" Y="-11.92" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.6973184" Y="-11.42" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.31521368" Y="-10.92" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.31521368" Y="-17.88" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.6973184" Y="-18.38" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.712575734" Y="-25.3902264" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.9132984" Y="-24.9478836" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.09968388" Y="-24.4478416" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.02958381" Y="-23.9478016" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.6973184" Y="-23.4477615" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.31521368" Y="-22.94772" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.31521368" Y="-25.8710346" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.02958357" Y="-18.88" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="1.09968376" Y="-19.38" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.9132984" Y="-19.88" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="0.712575734" Y="-20.32" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.0961616859" Width="2.05866528" Y="-20.74" X="1.75287843" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 12</description>
+        </Title>
+        <Title X="0" Y="-3.20001221" Width="105" Height="30">
+          <description>Make the right choice</description>
+        </Title>
+        <Title X="-26.25" Y="-116.100006" Width="52.5" Height="24">
+          <description>As i said: Right Choice</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="2.06221" Y="-3" X="1.18233371" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="2.06221" Y="-6.34" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-9.67" X="1.34043646" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-15.46" X="1.450421" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-25.23" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-21.23" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 13</description>
+        </Title>
+        <Title X="0" Y="-9.799987" Width="105" Height="26.6">
+          <description>Try to dodge that!</description>
+        </Title>
+        <Title X="0" Y="-540.8" Width="67.8" Height="30">
+          <description>NICE!</description>
+        </Title>
+        <Title X="0" Y="-341.5" Width="105" Height="40">
+          <description>Some old elements</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="2.5" Width="0.1031105" Y="-3" X="-3.16205525" Rotation="0" BlockType="0" />
+        <Block Height="2.44429684" Width="0.1031105" Y="-3.06" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="2.354251" Width="0.1031105" Y="-3.15" X="-2.06221" Rotation="0" BlockType="0" />
+        <Block Height="2.17415953" Width="0.1031105" Y="-3.33" X="-1.51228738" Rotation="0" BlockType="0" />
+        <Block Height="2.005324" Width="0.1031105" Y="-3.52" X="-0.9623646" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-3.83" X="-0.412442" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-4.15" X="0.137480661" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-4.59" X="0.6874033" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-5.11" X="1.23732591" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-10.73" X="-1.23732591" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-10.21" X="-0.6874033" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-9.77" X="-0.137480661" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-9.45" X="0.412442" Rotation="0" BlockType="0" />
+        <Block Height="2.005324" Width="0.1031105" Y="-9.14" X="0.9623646" Rotation="0" BlockType="0" />
+        <Block Height="2.17415953" Width="0.1031105" Y="-8.95" X="1.51228738" Rotation="0" BlockType="0" />
+        <Block Height="2.354251" Width="0.1031105" Y="-8.77" X="2.06221" Rotation="0" BlockType="0" />
+        <Block Height="2.44429684" Width="0.1031105" Y="-8.68" X="2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="2.5" Width="0.1031105" Y="-8.62" X="3.16205525" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-16.25" X="1.23732591" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-15.73" X="0.6874033" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-15.29" X="0.137480661" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-14.97" X="-0.412442" Rotation="0" BlockType="0" />
+        <Block Height="2.005324" Width="0.1031105" Y="-14.66" X="-0.9623646" Rotation="0" BlockType="0" />
+        <Block Height="2.17415953" Width="0.1031105" Y="-14.47" X="-1.51228738" Rotation="0" BlockType="0" />
+        <Block Height="2.354251" Width="0.1031105" Y="-14.29" X="-2.06221" Rotation="0" BlockType="0" />
+        <Block Height="2.44429684" Width="0.1031105" Y="-14.2" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="2.5" Width="0.1031105" Y="-14.14" X="-3.16205525" Rotation="0" BlockType="0" />
+        <Block Height="2.5" Width="0.1031105" Y="-19.8" X="3.16205525" Rotation="0" BlockType="0" />
+        <Block Height="2.44429684" Width="0.1031105" Y="-19.86" X="2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="2.354251" Width="0.1031105" Y="-19.95" X="2.06221" Rotation="0" BlockType="0" />
+        <Block Height="2.17415953" Width="0.1031105" Y="-20.13" X="1.51228738" Rotation="0" BlockType="0" />
+        <Block Height="2.005324" Width="0.1031105" Y="-20.32" X="0.9623646" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-20.63" X="0.412442" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-20.95" X="-0.137480661" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-21.39" X="-0.6874033" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-21.91" X="-1.23732591" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-27.42" X="-2.268431" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-26.9" X="-1.71850824" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-26.46" X="-0.618662953" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-26.14" X="0.4811823" Rotation="0" BlockType="0" />
+        <Block Height="1.69780731" Width="0.1031105" Y="-26.15" X="-1.16858566" Rotation="0" BlockType="0" />
+        <Block Height="1.378272" Width="0.1031105" Y="-26.47" X="-0.06874033" Rotation="0" BlockType="0" />
+        <Block Height="0.937008858" Width="0.1031105" Y="-26.91" X="1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.419253349" Width="0.1031105" Y="-27.43" X="1.58102763" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 14</description>
+        </Title>
+        <Title X="0" Y="-594.3" Width="67.8" Height="30">
+          <description>Well Played!</description>
+        </Title>
+        <Title X="-16.6000023" Y="-459.8" Width="64.9" Height="56.2">
+          <description>Is this 
+level looks awesome?</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1.1" Width="1.71850824" Y="-3" X="3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.2" Width="1.71850824" Y="-8" X="3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.1" Width="1.71850824" Y="-13" X="-3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.1" Width="1.71850824" Y="-18" X="-3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="2.5" Width="1.71850824" Y="-23" X="-3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.2" Width="1.71850824" Y="-35" X="3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.1" Width="1.71850824" Y="-30" X="3.43701649" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 15</description>
+        </Title>
+        <Title X="0" Y="-742" Width="105" Height="30">
+          <description>Nice!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-3.02" X="2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-5.27" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-16.56" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-3.02" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-9.06" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-11.47" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-11.47" X="2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-13.68" X="-0.00687403325" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-21.56" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-29.53" X="2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-24.53" X="2.61213255" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 16</description>
+        </Title>
+        <Title X="0" Y="-624.9" Width="67.8" Height="30">
+          <description>Excellent!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="1.649768" Y="-3" X="3.78071833" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="1.649768" Y="-3" X="-3.78071833" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-9" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-13.07" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1.5" Width="1.71850824" Y="-17.41" X="-3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.2" Width="1.71850824" Y="-25.97" X="3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1.1" Width="1.71850824" Y="-20.97" X="3.43701649" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-30.21" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-34.28" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 17</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="1.2" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.595255435" Y="-3.27" X="0.00687403325" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.595255435" Y="-8.22" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.595255435" Y="-13.15" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.595255435" Y="-17.2" X="0.00687403372" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 18</description>
+        </Title>
+        <Title X="0" Y="-3.200016" Width="105" Height="30">
+          <description>YEAH! IT`s A BIG BALL</description>
+        </Title>
+        <Title X="0" Y="-347.8" Width="105" Height="30">
+          <description>Nice! prepare for something hard</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="1.2" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="2.13095021" Y="-4.82" X="-1.46416914" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.21563673" Y="-9.81" X="1.62914574" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-14.98" X="-1.46416914" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="1.031105" Y="-20.36" X="0.653033137" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-34.54" X="-1.46416914" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-39.91" X="1.43667293" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="2.13095021" Y="-46.42" X="1.48479128" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 19</description>
+        </Title>
+        <Title X="0" Y="-3.20001221" Width="88.5" Height="30">
+          <description>big blocks for a big ball</description>
+        </Title>
+        <Title X="0" Y="-445" Width="88.5" Height="30">
+          <description>Perfect! Level done!</description>
+        </Title>
+        <Title X="0" Y="-633" Width="88.5" Height="30">
+          <description>Sorry it was a joke.</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.9" Width="0.1031105" Y="-3.74" X="-3.16205525" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-4.04" X="-2.61213255" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-4.34" X="-2.06221" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-4.64" X="-1.51228738" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-4.94" X="-0.9623646" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-5.24" X="-0.412442" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-10.22" X="1.17545974" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-9.92" X="0.625537038" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-9.62" X="0.07561436" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-9.32" X="-0.474308282" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-9.02" X="-1.024231" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-8.72" X="-1.57415354" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-10.51" X="1.663516" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-10.81" X="2.21343875" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-11.11" X="2.76336145" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-11.44" X="3.27204" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-14.85" X="1.450421" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-12.13" X="-3.39577246" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-13.92" X="-0.158102766" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-13.63" X="-0.6461591" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-13.33" X="-1.19608176" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-12.73" X="-2.295927" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-14.22" X="0.3918199" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-12.43" X="-2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-13.03" X="-1.74600446" Rotation="0" BlockType="0" />
+        <Block Height="0.9" Width="0.1031105" Y="-14.52" X="0.941742539" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-18.44" X="2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-19.94" X="0.158102766" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-20.843" X="-1.4923526" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-20.54" X="-0.941742539" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-18.74" X="2.295927" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-20.24" X="-0.3918199" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-19.64" X="0.7080254" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-19.34" X="1.25794816" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-19.04" X="1.74600446" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-18.14" X="3.35452819" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-22.03" X="-3.69823" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-21.73" X="-3.15518141" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-23.6" X="-3.69823" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-23.9" X="-3.16892934" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-24.2" X="-2.63962865" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-24.5" X="-2.09658" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-24.8" X="-1.4923526" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-25.1" X="-0.941742539" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-25.4" X="-0.3918199" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-25.7" X="0.158102766" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-26.6" X="1.74600458" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-26.9" X="2.295927" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-27.2" X="2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-27.5" X="3.35452819" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-30.44" X="0.158102766" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-29.84" X="1.25794816" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-28.64" X="3.35452819" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-28.94" X="2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-29.24" X="2.295927" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-30.14" X="0.7080254" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-31.35" X="-1.4923526" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-32.23" X="-3.15518141" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-29.54" X="1.74600458" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-32.53" X="-3.69823027" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-31.98" X="-2.57088852" Rotation="0" BlockType="0" />
+        <Block Height="0.3" Width="0.1031105" Y="-31.67" X="-2.02096581" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 20</description>
+        </Title>
+        <Title X="0" Y="-660.8" Width="67.8" Height="30">
+          <description>Perfect!</description>
+        </Title>
+        <Title X="1.45000029" Y="-6.900014" Width="102.1" Height="37.4">
+          <description>And ball can be small too</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.7" Width="0.1031105" Y="-3.74" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-3.74" X="0.00687403325" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-3.74" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-5.92" X="1.30606627" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-5.92" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-5.92" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-8.44" X="1.30606627" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-8.44" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-8.44" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-8.44" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-10.75" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-12.87" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-12.87" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-12.87" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-15.4" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-15.4" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-15.4" X="1.30606627" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-17.79" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-17.79" X="-2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-20.2" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-22.27" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-22.27" X="2.58463645" Rotation="0" BlockType="0" />
+        <Block Height="0.7" Width="0.1031105" Y="-24.37" X="2.61900663" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 21</description>
+        </Title>
+        <Title X="1.45000076" Y="-6.90002441" Width="102.1" Height="37.4">
+          <description>There are a lot of sticks</description>
+        </Title>
+        <Title X="1.45000076" Y="-505.3" Width="102.1" Height="37.4">
+          <description>perfectly well
+.</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="1" StartAngleSpeed="2" SpeedDeltaOnClick="4" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.25" Width="0.206221" Y="-3.8" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-3.8" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-3.8" X="1.30606627" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-3.8" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-5.04" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-5.04" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-5.04" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-6.24" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-7.44" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-7.44" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-9.84" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-9.84" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-9.84" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-13.37" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-14.64" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-14.64" X="1.30606627" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-14.64" X="-1.26482213" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-14.64" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-15.84" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-17.04" X="0.00687403372" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-19.44" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-19.44" X="2.61900663" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-23.04" X="-2.57776237" Rotation="0" BlockType="0" />
+        <Block Height="0.25" Width="0.206221" Y="-23.04" X="2.61900663" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="26.7999878" Width="105" Height="30">
+          <description>Level 22</description>
+        </Title>
+        <Title X="1.449997" Y="-484.6" Width="110.2" Height="37.4">
+          <description>I hope you didn`t broke your device</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="5" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="1" Width="0.6874033" Y="-3" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1.5" Width="0.6874033" Y="-6.9" X="0" Rotation="0" BlockType="0" />
+        <Block Height="1" Width="0.6874033" Y="-11.8" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-15.7" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-18.6" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 23</description>
+        </Title>
+        <Title X="0" Y="-385.1" Width="105" Height="30">
+          <description>WOW! level ended</description>
+        </Title>
+        <Title X="0" Y="-8.00003052" Width="105" Height="30">
+          <description>Press = Move</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="5" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.6874033" Y="-4" X="-2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-7" X="0" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-4" X="2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-10" X="-2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-10" X="2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-14.02" X="2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-14.02" X="-2.28217888" Rotation="0" BlockType="0" />
+        <Block Height="0.5" Width="0.6874033" Y="-17" X="0" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 24</description>
+        </Title>
+        <Title X="0" Y="-375.4" Width="105" Height="30">
+          <description>YEAH!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="5" AngleSpeedDeltaOnClick="0" BallSize="0.7" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.349320024" Width="0.116858564" Y="-5.1" X="-2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.239058763" Width="0.232800543" Y="-4.86" X="-2.50283551" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-4.19" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.237707853" Width="0.116858564" Y="-5.32" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-4.42" X="-2.16532063" Rotation="0" BlockType="0" />
+        <Block Height="0.233023152" Width="0.5764851" Y="-5.1" X="-1.70544755" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.3505757" Y="-4.87" X="-1.70750988" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.227319464" Y="-5.79" X="-2.04914927" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.232405886" Y="-5.79" X="-1.3693074" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-4.42" X="-1.25794816" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-4.19" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.24" Width="0.233717129" Y="-4.86" X="-0.9080598" Rotation="0" BlockType="0" />
+        <Block Height="0.235332459" Width="0.116858564" Y="-5.33" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.345562547" Width="0.116858564" Y="-5.1" X="-0.577418745" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.800946355" Y="-4.637" X="-1.71163428" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.791524649" Y="-7.06" X="1.67039013" Rotation="0" BlockType="0" />
+        <Block Height="0.345562547" Width="0.116858564" Y="-7.52" X="2.79773164" Rotation="0" BlockType="0" />
+        <Block Height="0.235332459" Width="0.116858564" Y="-7.75" X="2.3440454" Rotation="0" BlockType="0" />
+        <Block Height="0.24" Width="0.233717129" Y="-7.28" X="2.460904" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-6.61" X="2.3440454" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-6.84" X="2.11720228" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.232405886" Y="-8.21" X="2.0003438" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.227319464" Y="-8.21" X="1.31981432" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.3505757" Y="-7.29" X="1.663516" Rotation="0" BlockType="0" />
+        <Block Height="0.233023152" Width="0.5764851" Y="-7.52" X="1.663516" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-6.84" X="1.20982981" Rotation="0" BlockType="0" />
+        <Block Height="0.237707853" Width="0.116858564" Y="-7.74" X="0.9829867" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-6.61" X="0.9829867" Rotation="0" BlockType="0" />
+        <Block Height="0.239058763" Width="0.232800558" Y="-7.28" X="0.8661282" Rotation="0" BlockType="0" />
+        <Block Height="0.349320024" Width="0.116858564" Y="-7.52" X="0.5293006" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.786851346" Y="-9.9" X="-1.69788623" Rotation="0" BlockType="0" />
+        <Block Height="0.345562547" Width="0.116858564" Y="-10.36" X="-0.577418745" Rotation="0" BlockType="0" />
+        <Block Height="0.235332459" Width="0.116858564" Y="-10.59" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.24" Width="0.233717129" Y="-10.12" X="-0.9080598" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-9.45" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-9.68" X="-1.25794816" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.232405886" Y="-11.05" X="-1.3693074" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.227319464" Y="-11.05" X="-2.04914927" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.3505757" Y="-10.13" X="-1.70751" Rotation="0" BlockType="0" />
+        <Block Height="0.233023152" Width="0.5764851" Y="-10.36" X="-1.70544755" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-9.68" X="-2.16532063" Rotation="0" BlockType="0" />
+        <Block Height="0.237707853" Width="0.116858564" Y="-10.58" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-9.45" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.239058763" Width="0.232800558" Y="-10.12" X="-2.50283551" Rotation="0" BlockType="0" />
+        <Block Height="0.349320024" Width="0.116858564" Y="-10.36" X="-2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.345562547" Width="0.116858564" Y="-14.63" X="-0.577418745" Rotation="0" BlockType="0" />
+        <Block Height="0.235332459" Width="0.116858564" Y="-14.86" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.24" Width="0.233717129" Y="-14.39" X="-0.9080598" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-13.72" X="-1.031105" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-13.95" X="-1.25794816" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.232405886" Y="-15.32" X="-1.3693074" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.227319464" Y="-15.32" X="-2.04914927" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.3505757" Y="-14.4" X="-1.70751" Rotation="0" BlockType="0" />
+        <Block Height="0.233023152" Width="0.5764851" Y="-14.63" X="-1.70544755" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-13.95" X="-2.16532063" Rotation="0" BlockType="0" />
+        <Block Height="0.237707853" Width="0.116858564" Y="-14.85" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.7855944" Y="-14.17" X="-1.71163428" Rotation="0" BlockType="0" />
+        <Block Height="0.12" Width="0.116858564" Y="-13.72" X="-2.39216352" Rotation="0" BlockType="0" />
+        <Block Height="0.239058763" Width="0.232800558" Y="-14.39" X="-2.50283551" Rotation="0" BlockType="0" />
+        <Block Height="0.349320024" Width="0.116858564" Y="-14.63" X="-2.84584975" Rotation="0" BlockType="0" />
+        <Block Height="0.349320024" Width="0.116858564" Y="-17.69" X="0.07561436" Rotation="0" BlockType="0" />
+        <Block Height="0.1488808" Width="0.116858564" Y="-20.29" X="0.07561436" Rotation="0" BlockType="0" />
+        <Block Height="0.4911806" Width="1.1659435" Y="-20.971" X="0.07561436" Rotation="0" BlockType="0" />
+        <Block Height="0.206666067" Width="0.8305719" Y="-20.571" X="0.07561436" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 25</description>
+        </Title>
+        <Title X="0" Y="-443" Width="105" Height="30">
+          <description>YEAH!</description>
+        </Title>
+        <Title X="0" Y="-12.6000061" Width="105" Height="30">
+          <description>Respect to retro games</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="1.5" SpeedDeltaOnClick="5" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="5.34391737" Width="0.219018131" Y="-5.79" X="-2.98333049" Rotation="0" BlockType="0" />
+        <Block Height="0.695497036" Width="2.45431161" Y="-28.84" X="-3.526379" Rotation="0" BlockType="0" />
+        <Block Height="3.4565444" Width="0.334073484" Y="-18.88" X="-2.87334585" Rotation="0" BlockType="0" />
+        <Block Height="4.94917774" Width="0.219342321" Y="-5.79" X="-2.57088852" Rotation="0" BlockType="0" />
+        <Block Height="0.205574676" Width="0.217028409" Y="-15.68" X="-2.55714035" Rotation="0" BlockType="0" />
+        <Block Height="0.222659841" Width="0.3997433" Y="-27.63" X="-2.80460548" Rotation="0" BlockType="0" />
+        <Block Height="4.74898" Width="0.230590671" Y="-6.19" X="-2.14126134" Rotation="0" BlockType="0" />
+        <Block Height="3.043612" Width="0.218136817" Y="-19.3" X="-2.35091949" Rotation="0" BlockType="0" />
+        <Block Height="2.631143" Width="0.230153888" Y="-19.7" X="-1.93160331" Rotation="0" BlockType="0" />
+        <Block Height="4.33082" Width="0.23043184" Y="-6.6" X="-1.71850824" Rotation="0" BlockType="0" />
+        <Block Height="0.203825772" Width="0.216404989" Y="-28.44" X="-1.70613515" Rotation="0" BlockType="0" />
+        <Block Height="2.23026228" Width="0.21976079" Y="-20.1" X="-1.49853933" Rotation="0" BlockType="0" />
+        <Block Height="3.92518" Width="0.229793757" Y="-7" X="-1.29231822" Rotation="0" BlockType="0" />
+        <Block Height="1.82797182" Width="0.214987889" Y="-20.51" X="-1.06547511" Rotation="0" BlockType="0" />
+        <Block Height="0.20206809" Width="1.99987733" Y="-4.34" X="1.40917683" Rotation="0" BlockType="0" />
+        <Block Height="3.52241516" Width="0.217727676" Y="-7.4" X="-0.854442358" Rotation="0" BlockType="0" />
+        <Block Height="0.4941803" Width="0.23241955" Y="-29.24" X="-0.8661282" Rotation="0" BlockType="0" />
+        <Block Height="0.20675163" Width="1.7746278" Y="-4.74" X="1.642894" Rotation="0" BlockType="0" />
+        <Block Height="0.7051749" Width="0.237785608" Y="-16.88" X="-0.140230268" Rotation="0" BlockType="0" />
+        <Block Height="1.3992424" Width="0.21976085" Y="-20.91" X="-0.6461591" Rotation="0" BlockType="0" />
+        <Block Height="0.11" Width="1.28824031" Y="-26.56" X="0.91424644" Rotation="0" BlockType="0" />
+        <Block Height="2.67219687" Width="0.227832526" Y="-7.81" X="-0.419316024" Rotation="0" BlockType="0" />
+        <Block Height="1.11452043" Width="0.240023717" Y="-16.46" X="0.281835347" Rotation="0" BlockType="0" />
+        <Block Height="1.019116" Width="0.21821408" Y="-21.31" X="-0.213095024" Rotation="0" BlockType="0" />
+        <Block Height="0.5011392" Width="0.217959344" Y="-26.15" X="0.2680873" Rotation="0" BlockType="0" />
+        <Block Height="0.2250552" Width="1.58489978" Y="-5.12" X="1.84224093" Rotation="0" BlockType="0" />
+        <Block Height="2.47446823" Width="0.211743712" Y="-8.21" X="0.00481182337" Rotation="0" BlockType="0" />
+        <Block Height="1.5216347" Width="0.228022933" Y="-16.07" X="0.7011514" Rotation="0" BlockType="0" />
+        <Block Height="0.611849368" Width="0.241742417" Y="-21.72" X="0.18559891" Rotation="0" BlockType="0" />
+        <Block Height="0.9131376" Width="0.227396622" Y="-25.75" X="0.7011514" Rotation="0" BlockType="0" />
+        <Block Height="0.20756416" Width="1.39794743" Y="-5.56" X="2.08970618" Rotation="0" BlockType="0" />
+        <Block Height="1.20672238" Width="0.228986144" Y="-8.61" X="0.412442" Rotation="0" BlockType="0" />
+        <Block Height="1.92515016" Width="0.234001279" Y="-15.67" X="1.13421547" Rotation="0" BlockType="0" />
+        <Block Height="1.29259884" Width="0.232096791" Y="-25.35" X="1.13421547" Rotation="0" BlockType="0" />
+        <Block Height="0.217690215" Width="1.15501058" Y="-5.95" X="2.268431" Rotation="0" BlockType="0" />
+        <Block Height="0.205046475" Width="0.9355058" Y="-6.36" X="2.467778" Rotation="0" BlockType="0" />
+        <Block Height="0.841283262" Width="0.212553829" Y="-8.97" X="0.8599416" Rotation="0" BlockType="0" />
+        <Block Height="2.30452633" Width="0.224661246" Y="-15.26" X="1.55353153" Rotation="0" BlockType="0" />
+        <Block Height="1.72959757" Width="0.246047989" Y="-24.94" X="1.56727958" Rotation="0" BlockType="0" />
+        <Block Height="2.73831081" Width="0.8431714" Y="-14.86" X="2.59838462" Rotation="0" BlockType="0" />
+        <Block Height="2.73622966" Width="2.232397" Y="-24.52" X="3.98693943" Rotation="0" BlockType="0" />
+        <Block Height="0.211119428" Width="0.7111234" Y="-6.76" X="2.680873" Rotation="0" BlockType="0" />
+        <Block Height="0.210939378" Width="2.0282774" Y="-24.15" X="4.20003462" Rotation="0" BlockType="0" />
+        <Block Height="0.207613736" Width="0.6465596" Y="-20.32" X="2.82522774" Rotation="0" BlockType="0" />
+        <Block Height="0.208724484" Width="0.498663217" Y="-7.173" X="2.89053082" Rotation="0" BlockType="0" />
+        <Block Height="0.8488939" Width="0.6469516" Y="-13.24" X="2.82660246" Rotation="0" BlockType="0" />
+        <Block Height="0.2109783" Width="0.42917794" Y="-20.71" X="3.03832269" Rotation="0" BlockType="0" />
+        <Block Height="0.3141081" Width="0.431147158" Y="-23.73" X="3.03832269" Rotation="0" BlockType="0" />
+        <Block Height="0.204800427" Width="0.28378436" Y="-7.58" X="3.10225129" Rotation="0" BlockType="0" />
+        <Block Height="0.797932565" Width="0.323990256" Y="-11.65" X="3.148307" Rotation="0" BlockType="0" />
+        <Block Height="0.20088084" Width="0.219132066" Y="-21.13" X="3.24454355" Rotation="0" BlockType="0" />
+        <Block Height="0.202681363" Width="0.2156302" Y="-23.33" X="3.25141764" Rotation="0" BlockType="0" />
+        <Block Height="9.940905" Width="1.4224968" Y="-4.34" X="4.798075" Rotation="0" BlockType="0" />
+        <Block Height="11.9511118" Width="1.212674" Y="-4.34" X="-4.784327" Rotation="0" BlockType="0" />
+        <Block Height="0.412587047" Width="2.03743267" Y="-28.05" X="-3.95944333" Rotation="0" BlockType="0" />
+        <Block Height="11.41536" Width="0.2287691" Y="-5.39" X="-3.41639447" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 26</description>
+        </Title>
+        <Title X="0" Y="-12.6000061" Width="105" Height="30">
+          <description>Welcome to cave</description>
+        </Title>
+        <Title X="0" Y="-600.6" Width="105" Height="30">
+          <description>COOL!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="3" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.221034288" Width="1.72106075" Y="-4" X="-1.88485992" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616366" Y="-4.63" X="0.0824883953" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616634" Y="-5.27" X="0.08936243" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="1.97706461" Y="-6.88" X="1.82849288" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616366" Y="-4" X="0.0824883953" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.24708654" Y="-8.51" X="0.105860114" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.5493729" Y="-8.49" X="-3.0314486" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616634" Y="-9.23" X="0.08936243" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.24708654" Y="-13.42" X="0.105860122" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616634" Y="-14.11" X="0.08936243" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616634" Y="-14.77" X="0.08936243" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.262616634" Y="-11.6" X="0.08936243" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.24708654" Y="-10.88" X="0.105860122" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="0.5493729" Y="-12.5" X="-3.0314486" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="1.72106075" Y="-14.77" X="-1.88485992" Rotation="0" BlockType="0" />
+        <Block Height="0.221034288" Width="1.97706461" Y="-16.59" X="1.82849288" Rotation="0" BlockType="0" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 27</description>
+        </Title>
+        <Title X="0" Y="-375.4" Width="105" Height="30">
+          <description>YOU ARE LUCKY!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="3" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="2" Y="-3" X="3" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="2" Y="-3" X="-3" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="2" Y="-6" X="-2.5" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="2" Y="-6" X="2.5" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="2" Y="-9" X="2" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="2" Y="-9" X="-2" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-12" X="2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-14" X="-2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-16" X="2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-18" X="-2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-20" X="-2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-22" X="2.7" Rotation="0" BlockType="1" />
+        <Block Height="0.5" Width="4" Y="-24" X="2.7" Rotation="0" BlockType="1" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 28</description>
+        </Title>
+        <Title X="0" Y="-489.5" Width="105" Height="30">
+          <description>You are good</description>
+        </Title>
+        <Title X="0" Y="-8.00003052" Width="105" Height="30">
+          <description>WOW! MOVING BLOCKS!!!!</description>
+        </Title>
+      </Titles>
+    </Level>
+    <Level MaxAngle="26" TickerType="0" StartSpeed="0" StartAngleSpeed="2" SpeedDeltaOnClick="3" AngleSpeedDeltaOnClick="0" BallSize="0.5" StickLength="2.74137259">
+      <Blocks>
+        <Block Height="0.5" Width="0.8811937" Y="-3.84" X="0.02" Rotation="0" BlockType="1" />
+      </Blocks>
+      <Titles>
+        <Title X="0" Y="21.99997" Width="105" Height="30">
+          <description>Level 29</description>
+        </Title>
+        <Title X="0" Y="-8.00003052" Width="105" Height="30">
+          <description>WOW! MOVING BLOCKS!!!!</description>
+        </Title>
+      </Titles>
+    </Level>
+  </Levels>
+</LevelsContainer>
