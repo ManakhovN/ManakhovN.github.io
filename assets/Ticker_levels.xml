@@ -2088,24 +2088,5 @@ level looks awesome?</description>
         </Title>
       </Titles>
     </Level>
-    <Level MaxAngle="26" TickerType="0" StartSpeed="1.5" StartAngleSpeed="2" SpeedDeltaOnClick="3" AngleSpeedDeltaOnClick="0" BallSize="0.8" StickLength="2.74137259">
-      <Blocks>
-        <Block Height="1" Width="1" Y="-12.12" X="1.3164053" Rotation="0" BlockType="4" />
-        <Block Height="1" Width="1" Y="-9.43" X="-1.5" Rotation="0" BlockType="4" />
-        <Block Height="1" Width="1" Y="-5.91" X="0" Rotation="0" BlockType="4" />
-        <Block Height="2.601832" Width="2.601832" Y="-15.9" X="-2.79" Rotation="0" BlockType="4" />
-      </Blocks>
-      <Titles>
-        <Title X="0" Y="21.99997" Width="105" Height="30">
-          <description>Level 33</description>
-        </Title>
-        <Title X="0" Y="-8.00003052" Width="105" Height="30">
-          <description>Circles 2</description>
-        </Title>
-        <Title X="0" Y="-642.4" Width="105" Height="30">
-          <description>Gell played!</description>
-        </Title>
-      </Titles>
-    </Level>
   </Levels>
 </LevelsContainer>
