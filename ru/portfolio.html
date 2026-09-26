@@ -3,13 +3,17 @@
 <head>
 	<meta charset="utf-8">
 	<title>Redirecting…</title>
-	<link rel="canonical" href="/portfolio">
+	<link rel="canonical" href="./portfolio/">
 	<meta name="robots" content="noindex">
-	<meta http-equiv="refresh" content="0; url=/portfolio">
-	<!-- Legacy URL from the previous static site. Kept so old inbound links keep working. -->
-	<script>window.location.replace("/portfolio" + window.location.search + window.location.hash);</script>
+	<meta http-equiv="refresh" content="0; url=./portfolio/">
+	<!-- Legacy URL from the previous static site.
+	     The target is RELATIVE on purpose. GitHub Pages resolves /portfolio to this
+	     file before portfolio/index.html, so an absolute "/portfolio" target would
+	     redirect to itself forever. "./portfolio/" resolves to /portfolio/ at the
+	     site root and to /ru/portfolio/ in the Russian copy of this file. -->
+	<script>window.location.replace("./portfolio/" + window.location.search + window.location.hash);</script>
 </head>
 <body>
-	<p>This page has moved to <a href="/portfolio">/portfolio</a>.</p>
+	<p>This page has moved to <a href="./portfolio/">./portfolio/</a>.</p>
 </body>
 </html>
