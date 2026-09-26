@@ -1,0 +1,72 @@
+{
+  "packages": [
+    {
+      "id": "firebase",
+      "latest": "12.5.0",
+      "versions": [
+        {
+          "version": "12.5.0",
+          "downloadUrl": "https://dl.google.com/firebase/sdk/unity/firebase_unity_sdk_12.5.0.zip",
+          "archiveType": "zip",
+          "archiveSubPath": "firebase_unity_sdk_12.5.0/dotnet4",
+          "modules": [
+            { "file": "FirebaseAnalytics.unitypackage", "label": "Analytics", "defaultSelected": true },
+            { "file": "FirebaseAuth.unitypackage", "label": "Authentication", "defaultSelected": false },
+            { "file": "FirebaseFirestore.unitypackage", "label": "Firestore", "defaultSelected": false },
+            { "file": "FirebaseCrashlytics.unitypackage", "label": "Crashlytics", "defaultSelected": false },
+            { "file": "FirebaseMessaging.unitypackage", "label": "Cloud Messaging", "defaultSelected": false },
+            { "file": "FirebaseRemoteConfig.unitypackage", "label": "Remote Config", "defaultSelected": false },
+            { "file": "FirebaseStorage.unitypackage", "label": "Cloud Storage", "defaultSelected": false },
+            { "file": "FirebaseDatabase.unitypackage", "label": "Realtime Database", "defaultSelected": false },
+            { "file": "FirebaseFunctions.unitypackage", "label": "Cloud Functions", "defaultSelected": false },
+            { "file": "FirebaseAppCheck.unitypackage", "label": "App Check", "defaultSelected": false }
+          ]
+        },
+        {
+          "version": "12.4.1",
+          "downloadUrl": "https://dl.google.com/firebase/sdk/unity/firebase_unity_sdk_12.4.1.zip",
+          "archiveType": "zip",
+          "archiveSubPath": "firebase_unity_sdk_12.4.1/dotnet4",
+          "modules": [
+            { "file": "FirebaseAnalytics.unitypackage", "label": "Analytics", "defaultSelected": true },
+            { "file": "FirebaseAuth.unitypackage", "label": "Authentication", "defaultSelected": false },
+            { "file": "FirebaseFirestore.unitypackage", "label": "Firestore", "defaultSelected": false },
+            { "file": "FirebaseCrashlytics.unitypackage", "label": "Crashlytics", "defaultSelected": false },
+            { "file": "FirebaseMessaging.unitypackage", "label": "Cloud Messaging", "defaultSelected": false },
+            { "file": "FirebaseRemoteConfig.unitypackage", "label": "Remote Config", "defaultSelected": false },
+            { "file": "FirebaseStorage.unitypackage", "label": "Cloud Storage", "defaultSelected": false },
+            { "file": "FirebaseDatabase.unitypackage", "label": "Realtime Database", "defaultSelected": false },
+            { "file": "FirebaseFunctions.unitypackage", "label": "Cloud Functions", "defaultSelected": false },
+            { "file": "FirebaseAppCheck.unitypackage", "label": "App Check", "defaultSelected": false }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zenject",
+      "latest": "9.2.0",
+      "versions": [
+        {
+          "version": "9.2.0",
+          "downloadUrl": "https://github.com/modesttree/Zenject/releases/download/9.2.0/Extenject.unitypackage",
+          "archiveType": "unitypackage",
+          "archiveSubPath": "",
+          "modules": []
+        }
+      ]
+    },
+    {
+      "id": "dotween",
+      "latest": "1.2.825",
+      "versions": [
+        {
+          "version": "1.2.825",
+          "downloadUrl": "https://dotween.demigiant.com/downloads/DOTween_1_2_825.zip",
+          "archiveType": "zip",
+          "archiveSubPath": "",
+          "modules": []
+        }
+      ]
+    }
+  ]
+}
